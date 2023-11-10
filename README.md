@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shiny-Rocks
+- 👋 Hi, I’m @Versailles404
 - 👀 I’m interested in learning new technologies, meeting people & trying/creating things
-- 🌱 I’m currently learning how to code
+- 🌱 I’m currently learning how to use Angular and Laravel
 - 💞️ I’m looking to collaborate on projects (to be updated)
 - 📫 How to reach me:
 -> e-mail: maryline.vougaz@gmail.com
